@@ -1,7 +1,7 @@
 {
   "name": "build-make-file",
   "main": "lib/make-file.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runs GNU Make in the folder of the current file",
   "repository": {
     "type": "git",
